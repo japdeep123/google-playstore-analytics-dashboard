@@ -38,3 +38,11 @@ This project transforms raw Google Play Store data into 6 interactive visualizat
 ├── data/
 │   └── dataset.json      # Cleaned dataset used by charts
 └── README.md
+
+🚀 Live Demo
+
+(Link will be added after deploying via GitHub Pages)
+
+👤 Author
+
+Data Analyst Intern @ Elevance Skills
