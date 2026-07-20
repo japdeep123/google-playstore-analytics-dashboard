@@ -27,18 +27,18 @@ This project transforms raw Google Play Store data into 6 interactive visualizat
 
 ## 📁 Project Structure
 
-\`\`\`
-├── index.html          # Main dashboard page
+```
+├── index.html            # Main dashboard page
 ├── css/
-│   └── style.css        # Dashboard styling
+│   └── style.css         # Dashboard styling
 ├── js/
-│   ├── main.js           # Staggered chart-load orchestration
-│   ├── data-loader.js    # Fetches processed dataset
-│   ├── chart1.js ... chart6.js  # Individual chart render logic
+│   ├── main.js            # Staggered chart-load orchestration
+│   ├── data-loader.js     # Fetches processed dataset
+│   └── chart1.js ... chart6.js   # Individual chart render logic
 ├── data/
-│   └── dataset.json      # Cleaned dataset used by charts
+│   └── dataset.json       # Cleaned dataset used by charts
 └── README.md
-
+```
 🚀 Live Demo
 
 (Link will be added after deploying via GitHub Pages)
